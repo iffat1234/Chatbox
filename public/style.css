@@ -1,0 +1,9 @@
+.chat {
+    background-color: rgb(207, 244, 244);
+    border-radius: 13px;
+}
+
+.msg {
+    background-color: bisque;
+    color: black;
+}
